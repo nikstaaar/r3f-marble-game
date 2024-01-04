@@ -21,9 +21,9 @@ To set up the project locally for development purposes:
 3. Install dependencies using npm install.
 4. Start the development server using npm start.
 
-# Acknowledgments
+### Acknowledgments
 This project is a result of the incredible work and guidance from Bruno Simon's Three.js journey. Special thanks to Bruno Simon for the invaluable learning resources.
 
-# License
+### License
 This project is licensed under the MIT License.
 
