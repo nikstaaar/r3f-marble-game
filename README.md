@@ -10,7 +10,8 @@ Live Version
 - Educational Project: This game serves as the culmination of learning in Bruno Simon's Three.js journey.
 
 ### How to Play
-After entering the game and hitting start, use W A S D or Arrow keys to move the marble towards the burger.
+After entering the game and hitting start, use W A S D or Arrow keys to move the marble towards the burger. Use 
+Space Bar to jump over the obstacles.
 
 ### Development
 To set up the project locally for development purposes:
