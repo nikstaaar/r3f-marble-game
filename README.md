@@ -10,8 +10,7 @@ Live Version
 - Educational Project: This game serves as the culmination of learning in Bruno Simon's Three.js journey.
 
 ### How to Play
-Upon accessing the live version of the game, follow the on-screen instructions to navigate and control the marble within the racing environment. Use the provided controls to maneuver the marble through the race track and aim for victory!
-
+After entering the game and hitting start, use W A S D or Arrow keys to move the marble towards the burger.
 
 ### Development
 To set up the project locally for development purposes:
